@@ -21,6 +21,7 @@
     <li>Figma,</li>
     <li>Perfect pixel.</li>
 </ul>
+<p>I have got acquainted with Gulp the other day and want to know it more.</p>
 <ul>
     :boy: In real life:
     <li>man,</li>
