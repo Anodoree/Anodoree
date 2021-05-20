@@ -1,4 +1,4 @@
-<h1>### Hello👋 My name is Andrew. Welcome to my profile!</h1>
+<h1>Hello👋 My name is Andrew. Welcome to my profile!</h1>
 <h2>The plain facts.</h2>
 <p>I studying on my oun.</p>
 <ul>
@@ -33,7 +33,7 @@
 </ul>
 <p><i>My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.</i></p>
 
-<h2>### My works :computer:</h2>
+<h2>My works :computer:</h2>
 <ol>
     Created for adaptation contests:
     <li><a href="https://htmlpreview.github.io/?https://github.com/Anodoree/OnlineTV/blob/main/src/index.html">OnlineTV</a></li>
