@@ -16,13 +16,13 @@
     <li>JavaScript.</li>
 </ul>
 <ul>
-    Other:
+    :open_file_folder: Other:
     <li>BEM,</li>
     <li>Figma,</li>
     <li>Perfect pixel.</li>
 </ul>
 <ul>
-    In real life:
+    :boy: In real life:
     <li>man,</li>
     <li>32 years old,</li>
     <li>married 10 years,</li>
