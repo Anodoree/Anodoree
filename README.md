@@ -55,7 +55,7 @@
 <h2>For now :eyes:</h2>
 <p>Now I'm looking for a job according to my knowledge and abilities, but with a plan for further development. Mail to contact me: <a href="mailto:emfwws@bk.ru">emfwws@bk.ru</a> :e-mail:</p>
 
-<p>Thank you for your attention!</p>
+<p>Thank you for your attention! :sunny:</p>
 
 <!--
 **Anodoree/Anodoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
