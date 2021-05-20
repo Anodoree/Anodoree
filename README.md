@@ -52,7 +52,7 @@
 <p>It is very difficult to study on your own for many reasons, but I like this business and want to develop further in it.</p>
 
 <h2>For now :eyes:</h2>
-<p>Now I'm looking for a job according to my knowledge and abilities, but with a plan for further development.</p>
+<p>Now I'm looking for a job according to my knowledge and abilities, but with a plan for further development. Mail to contact me: <a href="mailto:emfwws@bk.ru">emfwws@bk.ru</a> :e-mail:</p>
 
 <p>Thank you for your attention!</p>
 
