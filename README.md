@@ -40,8 +40,9 @@
     <li><a href="https://anodoree.github.io/Pakko/">Pakko</a> - the first place in contest:star: More info in <a href="https://github.com/Anodoree/Pakko">the readme</a>.</li>
 </ol>
 <ul>
-    Project:
+    Projects:
     <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku-Karate</a> - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web: <a href="https://kagayaku-karate.com/" target="_blank" rel="noopener">kagayaku-karate.com</a>. Just a little more info in <a href="https://github.com/Anodoree/Kagayaku-Karate">the repository</a>.</li>
+    <li><a href="https://anodoree.github.io/Personal-site/">Personal site</a> - some basic JS skills.</li>
 </ul>
 
 <h2>History:scroll:</h2>
