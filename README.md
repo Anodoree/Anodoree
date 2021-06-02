@@ -48,7 +48,7 @@
 <h2>History:scroll:</h2>
 <p>:calendar: About three years ago, acquaintances invited me to a new project. At first, I was entrusted with advertising, but after a while the person who was engaged in the layout of the site shifted responsibilities to me and left the project. So I started to get acquainted with modern layout.</p>
 <p>:running: But since there was not enough time for training, and the project had to be launched, very soon it was decided to create a website using Wordpress and Elementor. The project was progressing with great difficulty, and soon another person left it.</p>
-<p>:pensive: A few months later, it was decided to stop it, since the profit from it stopped coming at all.</p>
+<p>:pensive: A few months later, it was decided to stop it.</p>
 <p>:construction_worker: Then I got a regular job again, and after about a year I decided to return to study html and css. Not so long ago I decided to do it seriously.</p>
 <p>:blush: What I did more or less well, I think, is posted on this resource.</p>
 <p>It is very difficult to study on your own for many reasons, but I like this business and want to develop further in it. :muscle:</p>
