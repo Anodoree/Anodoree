@@ -1,6 +1,6 @@
 <h1>Hello👋 My name is Andrew. Welcome to my profile!</h1>
 <h2>The plain facts:ballot_box_with_check:</h2>
-<p><b>I studying on my oun:beginner:</b></p>
+<p><b>I'm studying on my oun:beginner:</b></p>
 <ul>
     :black_nib: Good:
     <li>HTML5,</li>
@@ -41,8 +41,17 @@
 </ol>
 <ul>
     Projects:
-    <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku-Karate</a> - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web: <a href="https://kagayaku-karate.com/" target="_blank" rel="noopener">kagayaku-karate.com</a>. Just a little more info in <a href="https://github.com/Anodoree/Kagayaku-Karate">the repository</a>.</li>
+    <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a> - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web: <a href="https://kagayaku-karate.com/" target="_blank" rel="noopener">kagayaku-karate.com</a>. Just a little more info in <a href="https://github.com/Anodoree/Kagayaku-Karate">the repository</a>.</li>
     <li><a href="https://anodoree.github.io/Personal-site/">Personal site</a> - some basic JS skills.</li>
+</ul>
+<ul>
+    Work in progress:
+    <li>
+        <a href="https://anodoree.github.io/Solar/">Solar</a>
+    </li>
+    <li>
+        <a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a>
+    </li>
 </ul>
 
 <h2>History:scroll:</h2>
