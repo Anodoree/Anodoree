@@ -52,6 +52,9 @@
     <li>
         <a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a>
     </li>
+    <li>
+        <a href="https://anodoree.github.io/Emails/">Email</a> - start of some attempts.
+    </li>
 </ul>
 
 <h2>History:scroll:</h2>
