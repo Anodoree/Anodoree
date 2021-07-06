@@ -27,9 +27,8 @@
     <li>32 years old,</li>
     <li>married 10 years,</li>
     <li>one child (for now),</li>
-    <li>I like to drive cars,</li>
-    <li>sociable but to the point,</li>
-    <li>recently, I like to type pages and adapt it.</li>
+    <li>I like to drive cars and bicycles,</li>
+    <li>of course I like to type pages and adapt it.</li>
 </ul>
 <p><i>My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.</i></p>
 
@@ -44,12 +43,13 @@
     <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a> - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web: <a href="https://kagayaku-karate.com/" target="_blank" rel="noopener">kagayaku-karate.com</a>. Just a little more info in <a href="https://github.com/Anodoree/Kagayaku-Karate">the repository</a>;</li>
     <li><a href="https://anodoree.github.io/Personal-site/">Personal site</a> - some basic JS skills;</li>
     <li><a href="https://anodoree.github.io/Solar/">Solar</a> - written with youtube channel "From 0 to 1" but adaptation is fully mine with some edits in html and images compressing;</li>
+    <li><a href="https://anodoree.github.io/expertsender/">Expertsender</a> - independent work, written in pure html and css.</li>
     <li><a href="https://anodoree.github.io/Emails/">Email</a> - start of some attempts. Written independently following an example from a mailing list to personal mail. In general, the work is ready, but there are some rules that are not yet clear, so the work will still be completed.</li>
 </ul>
 <ul>
     Work in progress:
     <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a>;</li>
-    <li><a href="https://anodoree.github.io/Emails/">Email</a>.</li>
+    <li><a href="https://anodoree.github.io/far-east-supplier/">Far east supplier</a> - independent work.</li>
 </ul>
 
 <h2>History:scroll:</h2>
