@@ -1,69 +1,98 @@
-<h1>Hello👋 My name is Andrew. Welcome to my profile!</h1>
-<h2>The plain facts:ballot_box_with_check:</h2>
-<p><b>I'm studying on my oun:beginner:</b></p>
+<h1>
+    Hello👋 My name is Andrew. Welcome to my profile!
+</h1>
+
+<h2>
+    The plain facts about me :ballot_box_with_check:
+</h2>
+
+<p>
+    Junior page-maker :beginner: <b>I am looking for a job or a freelance team to create quality projects.</b> Mail to contact me: <a href="mailto:emfwws@bk.ru">emfwws@bk.ru</a> :e-mail:</p>
+</p>
+
+<p>
+    :black_nib: Сonfident skills:
+</p>
 <ul>
-    :black_nib: Good:
     <li>HTML5,</li>
     <li>CSS3/SCSS,</li>
-    <li>Screen Adaptation.</li>
+    <li>Screen аdaptation.</li>
 </ul>
-<ul>
+
+<p>
     :pencil2: A little:
+</p>
+<ul>
     <li>Git,</li>
-    <li>SEO,</li>
+    <li>Gulp,</li>
     <li>English,</li>
     <li>Pug/Jade,</li>
-    <li>JavaScript.</li>
+    <li>JavaScript, JQuery.</li>
 </ul>
-<ul>
+
+<p>
     :open_file_folder: Other:
-    <li>BEM,</li>
-    <li>Figma,</li>
+</p>
+<ul>
+    <li>BEM-naming,</li>
     <li>Perfect pixel.</li>
 </ul>
-<ul>
+
+<p>
     :boy: In real life:
+</p>
+<ul>
     <li>man,</li>
     <li>32 years old,</li>
     <li>married 10 years,</li>
-    <li>one child (for now),</li>
+    <li>2 children,</li>
     <li>I like to drive cars and bicycles,</li>
     <li>of course I like to type pages and adapt it.</li>
 </ul>
-<p><i>My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.</i></p>
 
-<h2>My works :computer:</h2>
-<ol>
-    Created for adaptation contests:
-    <li><a href="https://htmlpreview.github.io/?https://github.com/Anodoree/OnlineTV/blob/main/src/index.html">OnlineTV</a></li>
-    <li><a href="https://anodoree.github.io/Pakko/">Pakko</a> - the first place in contest:star: More info in <a href="https://github.com/Anodoree/Pakko">the readme</a>.</li>
+<p>
+    <i>My english is not good but some time ago i reconfigured my Windows into this language (for some reason not completely translated) and most of programs.</i>
+</p>
+
+<h2>
+    My works :computer:
+</h2>
+<p>
+    <b>For about a year I’ve been studying on my own, but I just recently completed a paid course with mentor. While I'm preparing a good portfolio, please look at my old works from the following list (*from new to old):</b>
+</p>
+<ol reversed>
+    <li>
+        FreshOK (<a href="https://github.com/Anodoree/freshok">repo</a> / <a href="https://anodoree.github.io/freshok/">demo</a>) - online-market from "From 0 to 1" school. There are some comments on the product page, but since it will not be quoted in a serious portfolio, I decided to leave it this way;
+    </li>
+    <li>
+        WAWE (<a href="https://github.com/Anodoree/wawe">repo</a> / <a href="https://anodoree.github.io/wawe/">demo</a>) - landing-page from "From 0 to 1" school;
+    </li>
+    <li>
+        Solar (<a href="https://github.com/Anodoree/Solar">repo</a> / <a href="https://anodoree.github.io/Solar/">demo</a>) - written with youtube channel "From 0 to 1" but adaptation is fully mine with some edits in html and images compressing;
+    </li>
+    <li>
+        Expertsender (<a href="https://github.com/Anodoree/expertsender">repo</a> / <a href="https://anodoree.github.io/expertsender/">demo</a>) - small independent work, written in pure html and css;
+    </li>
+    <li>
+        Emails (<a href="https://github.com/Anodoree/Emails">repo</a> / <a href="https://anodoree.github.io/Emails/">demo</a>) - start of some attempts. Written independently following an example from a mailing list to personal mail. In general, the work is ready, but there are some rules that are not yet clear;
+    </li>
+    <li>
+        Personal site (<a href="https://github.com/Anodoree/Personal-site">repo</a> / <a href="https://anodoree.github.io/Personal-site/">demo</a>) - a bit of initial knowledge of JavaScript;
+    </li>
+    <li>
+        Kagayaku Karate (<a href="https://github.com/Anodoree/Kagayaku-Karate">repo</a> / <a href="https://anodoree.github.io/Kagayaku-Karate/">demo (beta v.2.09)</a> / <a href="https://kagayaku-karate.com/index.html" target="_blank" rel="noopener">site (pure html/css, v.1)</a>) - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web;
+    </li>
+    <li>
+        Pakko (<a href="https://github.com/Anodoree/Pakko">repo</a> / <a href="https://anodoree.github.io/Pakko/">demo</a>) - the first place in adaptation contest:star: More info in repo;
+    </li>
+    <li>
+        OnlineTV (<a href="https://github.com/Anodoree/OnlineTV">repo</a> / <a href="https://htmlpreview.github.io/?https://github.com/Anodoree/OnlineTV/blob/main/src/index.html">demo</a>) - was made for adaptation contest;
+    </li>
 </ol>
-<ul>
-    Projects:
-    <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a> - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web: <a href="https://kagayaku-karate.com/" target="_blank" rel="noopener">kagayaku-karate.com</a>. Just a little more info in <a href="https://github.com/Anodoree/Kagayaku-Karate">the repository</a>;</li>
-    <li><a href="https://anodoree.github.io/Personal-site/">Personal site</a> - some basic JS skills;</li>
-    <li><a href="https://anodoree.github.io/Solar/">Solar</a> - written with youtube channel "From 0 to 1" but adaptation is fully mine with some edits in html and images compressing;</li>
-    <li><a href="https://anodoree.github.io/expertsender/">Expertsender</a> - independent work, written in pure html and css.</li>
-    <li><a href="https://anodoree.github.io/Emails/">Email</a> - start of some attempts. Written independently following an example from a mailing list to personal mail. In general, the work is ready, but there are some rules that are not yet clear, so the work will still be completed.</li>
-</ul>
-<ul>
-    Work in progress:
-    <li><a href="https://anodoree.github.io/Kagayaku-Karate/">Kagayaku Karate</a>;</li>
-    <li><a href="https://anodoree.github.io/far-east-supplier/">Far east supplier</a> - independent work.</li>
-</ul>
 
-<h2>History:scroll:</h2>
-<p>:calendar: About three years ago, acquaintances invited me to a new project. At first, I was entrusted with advertising, but after a while the person who was engaged in the layout of the site shifted responsibilities to me and left the project. So I started to get acquainted with modern layout.</p>
-<p>:running: But since there was not enough time for training, and the project had to be launched, very soon it was decided to create a website using Wordpress and Elementor. The project was progressing with great difficulty, and soon another person left it.</p>
-<p>:pensive: A few months later, it was decided to stop it.</p>
-<p>:construction_worker: Then I got a regular job again, and after about a year I decided to return to study html and css. Not so long ago I decided to do it seriously.</p>
-<p>:blush: What I did more or less well, I think, is posted on this resource.</p>
-<p>It is very difficult to study on your own for many reasons, but I like this business and want to develop further in it. :muscle:</p>
-
-<h2>For now :eyes:</h2>
-<p>Now I'm looking for a job according to my knowledge and abilities, but with a plan for further development. Mail to contact me: <a href="mailto:emfwws@bk.ru">emfwws@bk.ru</a> :e-mail:</p>
-
-<p>Thank you for your attention! :sunny:</p>
+<p>
+    Thank you for your attention! :sunny:
+</p>
 
 <!--
 **Anodoree/Anodoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
