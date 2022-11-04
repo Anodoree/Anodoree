@@ -6,7 +6,7 @@ Junior page-maker :beginner:
 
 ### :black_nib: Сonfident skills:
 - HTML5,
-- CSS3/SCSS,
+- CSS3/Sass,
 - Screen аdaptation.
 
 ### :pencil2: A little:
@@ -34,15 +34,15 @@ Junior page-maker :beginner:
 
 <!-- **For about a year I’ve been studying on my own, but I just recently completed a paid course with mentor. While I'm preparing a good portfolio, please look at my old works from the following list (*from new to old):** -->
 
-9. FreshOK ([repo](https://github.com/Anodoree/freshok) / [demo](https://anodoree.github.io/freshok/)) - online-market from "From 0 to 1" school. There are some comments on the product page, but since it will not be quoted in a serious portfolio, I decided to leave it this way.
-8. WAWE ([repo](https://github.com/Anodoree/wawe) / [demo](https://anodoree.github.io/wawe/)) - landing-page from "From 0 to 1" school.
-7. Solar ([repo](https://github.com/Anodoree/Solar) / [demo](https://anodoree.github.io/Solar/)) - written with youtube channel "From 0 to 1" but adaptation is fully mine with some edits in html and images compressing.
-6. Expertsender ([repo](https://github.com/Anodoree/expertsender) / [demo](https://anodoree.github.io/expertsender/)) - small independent work, written in pure html and css.
+1. FreshOK ([repo](https://github.com/Anodoree/freshok) / [demo](https://anodoree.github.io/freshok/)) - online-market from "From 0 to 1" school. There are some comments on the product page, but since it will not be quoted in a serious portfolio, I decided to leave it this way.
+2. WAWE ([repo](https://github.com/Anodoree/wawe) / [demo](https://anodoree.github.io/wawe/)) - landing-page from "From 0 to 1" school.
+3. Solar ([repo](https://github.com/Anodoree/Solar) / [demo](https://anodoree.github.io/Solar/)) - written with youtube channel "From 0 to 1" but adaptation is fully mine with some edits in html and images compressing.
+4. Expertsender ([repo](https://github.com/Anodoree/expertsender) / [demo](https://anodoree.github.io/expertsender/)) - small independent work, written in pure html and css.
 5. Emails ([repo](https://github.com/Anodoree/Emails) / [demo](https://anodoree.github.io/Emails/)) - start of some attempts. Written independently following an example from a mailing list to personal mail. In general, the work is ready, but there are some rules that are not yet clear.
-4. Personal site ([repo](https://github.com/Anodoree/Personal-site) / [demo](https://anodoree.github.io/Personal-site/)) - a bit of initial knowledge of JavaScript.
-3. Kagayaku Karate ([repo](https://github.com/Anodoree/Kagayaku-Karate) / [demo (beta v.2.09)](https://anodoree.github.io/Kagayaku-Karate/) / [site (pure html/css, v.1)](https://kagayaku-karate.com/index.html)) - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web.
-2. Pakko ([repo](https://github.com/Anodoree/Pakko) / [demo](https://anodoree.github.io/Pakko/)) - the first place in adaptation contest:star: More info in repo.
-1. OnlineTV ([repo](https://github.com/Anodoree/OnlineTV) / [demo](https://htmlpreview.github.io/?https://github.com/Anodoree/OnlineTV/blob/main/src/index.html)) - was made for adaptation contest.
+6. Personal site ([repo](https://github.com/Anodoree/Personal-site) / [demo](https://anodoree.github.io/Personal-site/)) - a bit of initial knowledge of JavaScript.
+7. Kagayaku Karate ([repo](https://github.com/Anodoree/Kagayaku-Karate) / [demo (beta v.2.09)](https://anodoree.github.io/Kagayaku-Karate/) / [site (pure html/css, v.1)](https://kagayaku-karate.com/index.html)) - was created as a business card without designer and any other help for my friend and is still being assembled. The previous version is currently working in web.
+8. Pakko ([repo](https://github.com/Anodoree/Pakko) / [demo](https://anodoree.github.io/Pakko/)) - the first place in adaptation contest:star: More info in repo.
+9. OnlineTV ([repo](https://github.com/Anodoree/OnlineTV) / [demo](https://htmlpreview.github.io/?https://github.com/Anodoree/OnlineTV/blob/main/src/index.html)) - was made for adaptation contest.
 
 <!-- _Thank you for your attention! :sunny:_ -->
 
